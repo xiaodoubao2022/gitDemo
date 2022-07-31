@@ -2,4 +2,4 @@ hello git! 2
 hello git! 3
 hello git!
 
-master test
+master test hoe-fix test
